@@ -34,27 +34,6 @@
       "caption": "My project",
       "links": [
         {
-          "title": "Product",
-          "items": [
-            {
-              "label": "Blog",
-              "href": "https://www.spreading.ai/blog",
-              "id": "532406df"
-            },
-            {
-              "label": "Sign up",
-              "href": "https://app.spreading.ai/signup",
-              "id": "887b0592"
-            },
-            {
-              "label": "Log in",
-              "href": "https://app.spreading.ai/login",
-              "id": "709288ab"
-            }
-          ],
-          "id": "8a35eb11"
-        },
-        {
           "id": "af3574e3",
           "title": "",
           "items": []
